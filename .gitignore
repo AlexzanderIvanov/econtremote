@@ -1,0 +1,56 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @AlexzanderIvanov
+ Watch 1
+  Star 0
+ Fork 0 ydm/remoteecont
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathremoteecont/.gitignore
+3d1c50a  on Apr 8, 2013
+@ydm ydm Initial commit
+1 contributor
+RawBlameHistory     36 lines (29 sloc)  303 Bytes
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+
+# Ignore Mac DS_Store files
+.DS_Store
